@@ -19,4 +19,5 @@ Types of linked list
 1.) Singly linked list
 2.) Doubly linked list
 3.) Circular linked list
+4.) Doubly Circular linked list
 
